@@ -1,4 +1,4 @@
-let morse = require('../crypts/methods/morse');
+let morse = require('../crypts/algorithms/morse');
 
 beforeAll(() => morse = morse.default);
 

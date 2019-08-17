@@ -1,4 +1,4 @@
-import ciphers from './methods'
+import ciphers from './algorithms'
 
 /**
  * Decrypt of crypt depence on param. 
