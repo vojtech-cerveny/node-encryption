@@ -1,0 +1,21 @@
+{
+  "name": "node-encryption-y-soft",
+  "version": "1.0.0",
+  "description": "Homework for Y-SOFT",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js",
+    "test": "test"
+  },
+  "author": "Vojtěch Červený <cervik49@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "inquirer": "^6.5.1",
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
+    "@babel/preset-env": "^7.5.5"
+  }
+}
